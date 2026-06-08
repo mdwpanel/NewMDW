@@ -1,0 +1,10 @@
+build/
+obj/
+bin/
+.gradle/
+.cxx/
+*.apk
+*.aab
+*.so
+*.o
+*.zip
